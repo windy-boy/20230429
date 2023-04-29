@@ -1,0 +1,72 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/workbenches/ecoDetail",
+          "pathName": "pages/workbenches/ecoDetail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/workbenches/subEco",
+          "pathName": "pages/workbenches/subEco",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/workbenches/ecoInfo",
+          "pathName": "pages/workbenches/ecoInfo",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/msg/index",
+          "pathName": "pages/msg/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/index",
+          "pathName": "pages/user/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/ecoLogList",
+          "pathName": "pages/user/ecoLogList",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/house/index",
+          "pathName": "pages/house/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/trusteeship/index",
+          "pathName": "pages/trusteeship/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/trusteeship/success",
+          "pathName": "pages/trusteeship/success",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.img-box.data-v-7006793f {
+  padding-top: 180rpx;
+  margin-bottom: 40rpx;
+}
+.img-200.data-v-7006793f {
+  width: 200rpx;
+  height: 200rpx;
+}
+.back-btn.data-v-7006793f {
+  font-size: 32rpx;
+  color: #B2B2B2;
+  font-weight: 500;
+  width: 278rpx;
+  height: 90rpx;
+  border: 2rpx solid #B2B2B2;
+}
+

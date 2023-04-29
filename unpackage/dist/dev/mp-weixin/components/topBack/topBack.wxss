@@ -1,0 +1,15 @@
+.back-arrow-left.data-v-70a9d084 {
+  position: fixed;
+  left: 34rpx;
+  z-index: 10086;
+}
+.arrow-square.data-v-70a9d084 {
+  width: 24rpx;
+  height: 24rpx;
+  border: 1px solid #fff;
+  border-left: none;
+  border-bottom: none;
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+}
+

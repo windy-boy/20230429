@@ -1,0 +1,26 @@
+.img-600.data-v-c7e31fe8 {
+  width: 100vw;
+  height: 600rpx;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.log-title.data-v-c7e31fe8 {
+  height: 118rpx;
+}
+.eco-rela.data-v-c7e31fe8 {
+  position: relative;
+  z-index: 99;
+}
+.list-container.data-v-c7e31fe8 {
+  border-radius: 20rpx;
+  padding: 0 30rpx;
+}
+.list-itme.data-v-c7e31fe8 {
+  padding: 30rpx 0;
+}
+.box-shaow.data-v-c7e31fe8 {
+  box-shadow: inset 0px -1px 0px 0px #DFE3E5;
+}
+

@@ -1,0 +1,29 @@
+.c-000.data-v-8503bdd8 {
+  color: #000;
+}
+.c-b2.data-v-8503bdd8 {
+  color: #B2B2B2;
+}
+.c-98.data-v-8503bdd8 {
+  color: #989898;
+}
+.blank-line.data-v-8503bdd8 {
+  border-bottom: 1px solid #EDEDED;
+}
+.blank-title.data-v-8503bdd8 {
+  height: 92rpx;
+}
+.eco-img.data-v-8503bdd8 {
+  width: 180rpx;
+  height: 180rpx;
+  margin-left: 20rpx;
+  margin-bottom: 20rpx;
+}
+.c-80.data-v-8503bdd8 {
+  color: #808080;
+}
+.eco-info.data-v-8503bdd8 {
+  background: #FFFFFF;
+  border-radius: 20rpx;
+}
+

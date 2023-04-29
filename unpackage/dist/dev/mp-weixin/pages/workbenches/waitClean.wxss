@@ -1,0 +1,25 @@
+.tab-list.data-v-6487b149 {
+  width: 100%;
+  height: 90rpx;
+  color: #656565;
+  font-weight: 500;
+}
+.tab-list .tab-item.data-v-6487b149 {
+  height: 90rpx;
+}
+.tab-list .tab-line.data-v-6487b149 {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  width: 32rpx;
+  height: 6rpx;
+  background: #1677FF;
+  border-radius: 4rpx;
+}
+.scroll-view-container.data-v-6487b149 {
+  height: calc(100vh - 92rpx);
+  background: #F7F7F7;
+}
+

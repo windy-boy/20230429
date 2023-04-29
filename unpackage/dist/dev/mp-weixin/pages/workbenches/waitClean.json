@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "待打扫房屋",
+  "usingComponents": {
+    "workbenches-item": "/pages/workbenches/child/item"
+  }
+}

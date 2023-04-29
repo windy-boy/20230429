@@ -1,0 +1,62 @@
+.eco-page.data-v-ef456092 {
+  min-height: 100vh;
+  background-color: #F7F7F7;
+}
+.data-v-ef456092 swiper {
+  height: 750rpx;
+}
+.swiper-img.data-v-ef456092 {
+  width: 100%;
+  height: 750rpx;
+}
+.eco-container.data-v-ef456092 {
+  padding: 0 30rpx;
+  margin-top: -30rpx;
+  position: relative;
+  z-index: 999;
+}
+.eco-container .eco-box.data-v-ef456092 {
+  border-radius: 20rpx;
+  padding: 0 30rpx;
+}
+.eco-container .eco-box .eco-head.data-v-ef456092 {
+  height: 100rpx;
+}
+.eco-container .eco-box .eco-head .status-box.data-v-ef456092 {
+  padding: 4rpx 10rpx;
+  border-radius: 4rpx;
+  background: #1677FF;
+}
+.eco-container .eco-box .eco-line.data-v-ef456092 {
+  width: 100%;
+  height: 1px;
+  background-color: #EDEDED;
+  margin-bottom: 30rpx;
+}
+.swiper-count.data-v-ef456092 {
+  position: absolute;
+  bottom: 60rpx;
+  right: 30rpx;
+  border-radius: 24rpx;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100rpx;
+  height: 48rpx;
+}
+.e-98.data-v-ef456092 {
+  color: #989898;
+}
+.sub-btn.data-v-ef456092 {
+  height: 80rpx;
+  background: #1677FF;
+  opacity: 1;
+  border-radius: 10rpx;
+  margin-top: 30rpx;
+}
+.detail-btn.data-v-ef456092 {
+  height: 80rpx;
+  opacity: 1;
+  border: 1px solid #CCCCCC;
+  border-radius: 10rpx;
+  margin-top: 30rpx;
+}
+

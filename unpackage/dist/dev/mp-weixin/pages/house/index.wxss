@@ -1,0 +1,44 @@
+.page-container.data-v-dc40d88c {
+  width: 100%;
+  height: 100%;
+  background: #F7F7F7;
+}
+.img-580.data-v-dc40d88c {
+  width: 100vw;
+  height: 580rpx;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.th-head.data-v-dc40d88c {
+  position: relative;
+  z-index: 2;
+  padding: 40rpx 30rpx 50rpx;
+}
+.position-box.data-v-dc40d88c {
+  position: relative;
+  z-index: 2;
+  padding: 0 30rpx;
+}
+.white-btn.data-v-dc40d88c {
+  width: 160rpx;
+  height: 64rpx;
+  background: #FFFFFF;
+  border-radius: 10rpx;
+  color: #1677FF;
+}
+.border-raidus-20.data-v-dc40d88c {
+  border-radius: 20rpx;
+  position: relative;
+  z-index: 999;
+  margin: 0 20rpx;
+}
+.border-raidus-10.data-v-dc40d88c {
+  border-radius: 10rpx;
+  padding: 12rpx 24rpx;
+}
+.bg-f2.data-v-dc40d88c {
+  background: #F2F3F5;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "卫生员",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "item": "/pages/house/child/item"
+  }
+}

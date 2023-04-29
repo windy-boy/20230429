@@ -1,0 +1,27 @@
+.c-000.data-v-054744e8 {
+  color: #000;
+}
+.c-b2.data-v-054744e8 {
+  color: #B2B2B2;
+}
+.data-v-054744e8 .u-upload__button {
+  width: 180rpx !important;
+  height: 180rpx !important;
+}
+.data-v-054744e8 .u-upload__wrap__preview__image {
+  width: 180rpx !important;
+  height: 180rpx !important;
+}
+.blank-line.data-v-054744e8 {
+  border-bottom: 1px solid #EDEDED;
+}
+.blank-title.data-v-054744e8 {
+  height: 92rpx;
+}
+.sub-btn.data-v-054744e8 {
+  height: 80rpx;
+  background: #1677FF;
+  border-radius: 10px 10px 10px 10px;
+  margin-top: 60rpx;
+}
+

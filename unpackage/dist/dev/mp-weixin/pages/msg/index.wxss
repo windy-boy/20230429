@@ -1,0 +1,10 @@
+.msg-box.data-v-2d66829b {
+  border-radius: 6rpx;
+}
+.red-box.data-v-2d66829b {
+  width: 24rpx;
+  height: 24rpx;
+  background: #FB5543;
+  border-radius: 50%;
+}
+

@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/workbenches/index",
+    "pages/house/index",
+    "pages/msg/index",
+    "pages/user/index",
+    "pages/workbenches/waitClean",
+    "pages/workbenches/ecoDetail",
+    "pages/workbenches/subEco",
+    "pages/workbenches/ecoInfo",
+    "pages/user/ecoLogList",
+    "pages/trusteeship/index",
+    "pages/trusteeship/success"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "卫生员",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F7F7F7"
+  },
+  "tabBar": {
+    "backgroundColor": "#F7F7F7",
+    "borderStyle": "black",
+    "color": "#808080",
+    "selectedColor": "#1677FF",
+    "list": [
+      {
+        "pagePath": "pages/workbenches/index",
+        "iconPath": "static/tabbar1.png",
+        "selectedIconPath": "static/tabbar1_active.png",
+        "text": "工作台"
+      },
+      {
+        "pagePath": "pages/msg/index",
+        "iconPath": "static/tabbar2.png",
+        "selectedIconPath": "static/tabbar2_active.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/user/index",
+        "iconPath": "static/tabbar3.png",
+        "selectedIconPath": "static/tabbar3_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

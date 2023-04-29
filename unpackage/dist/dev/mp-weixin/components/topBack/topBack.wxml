@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleBack',['$event']]]]]}}" class="back-arrow-left data-v-70a9d084" style="{{'top:'+(statusHeight+'px')+';'}}" bindtap="__e"><view class="arrow-square data-v-70a9d084"></view></view>

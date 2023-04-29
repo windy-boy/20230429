@@ -1,0 +1,88 @@
+
+// 字体
+.c-white {
+	color: white;
+}
+.c-black {
+	color: #3D3D3D;
+}
+.c-blue {
+	color: #1677FF;
+}
+
+.w-500 {
+	font-weight: 500;
+}
+.w-600 {
+	font-weight: 600;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+// 背景颜色
+.bg-primary {
+	background-color: "#F7F7F7";
+}
+.bg-white {
+	background-color: white;
+}
+
+.flex {
+	display: flex;
+}
+.align-center {
+	align-items: center;
+}
+.flex-wrap {
+	flex-wrap: wrap;
+}
+.justify-center {
+	justify-content: center;
+}
+.justify-between {
+	justify-content: space-between;
+}
+// flex
+.align-initial {
+	align-items: initial !important;
+}
+.align-stretch {
+	align-items: stretch !important;
+	/*flex-wrap布局下使每一列内元素高度保持一致*/
+}
+.flex-col {
+	flex-direction: column !important;
+	/* flex单行 */
+}
+.flex-1 {
+	flex: 1;
+}
+.flex-2 {
+	flex: 0 0 50%;
+}
+.flex-3 {
+	flex: 0 0 33.333%;
+}
+.flex-4 {
+	flex: 0 0 25%;
+}
+
+
+// 升级uView2.x版本后被去除的内置样式
+// 定位
+.u-rela {
+	position: relative;
+}
+.u-abso {
+	position: absolute;
+}
+
+
+.border-raidus-20 {
+	border-radius: 20rpx;	
+	} 

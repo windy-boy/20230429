@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我想托管",
+  "usingComponents": {
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker"
+  }
+}

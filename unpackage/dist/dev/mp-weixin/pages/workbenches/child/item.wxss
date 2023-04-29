@@ -1,0 +1,27 @@
+.workbenches-item.data-v-0f4a0081 {
+  border-radius: 20rpx;
+  overflow: hidden;
+}
+.workbenches-item--head.data-v-0f4a0081 {
+  height: 80rpx;
+  color: #3D3D3D;
+  box-shadow: inset 0px -1px 0px 0px #E5E6EB;
+}
+.workbenches-item--body.data-v-0f4a0081 {
+  padding: 20rpx 30rpx 30rpx;
+  flex-wrap: wrap;
+}
+.workbenches-item--body .wib-item.data-v-0f4a0081 {
+  flex: 0 0 calc((100% - 54rpx - 18rpx) / 4);
+  height: 80rpx;
+  position: relative;
+  border: 1px solid #CCCCCC;
+  border-radius: 6rpx;
+  margin-bottom: 18rpx;
+}
+.workbenches-item--body .wib-item--img.data-v-0f4a0081 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+

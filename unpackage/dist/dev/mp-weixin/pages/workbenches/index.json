@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "卫生员",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "workbenches-item": "/pages/workbenches/child/item"
+  }
+}

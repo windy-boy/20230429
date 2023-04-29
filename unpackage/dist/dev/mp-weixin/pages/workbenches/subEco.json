@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "打扫完成",
+  "usingComponents": {
+    "u-upload": "/uni_modules/uview-ui/components/u-upload/u-upload",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea"
+  }
+}
